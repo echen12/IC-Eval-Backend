@@ -88,3 +88,4 @@
     ```
 
 7. You're ready to start the front end of the project.
+8. To update how a form is configured, paste a valid form configuration JSON to StaticFiles -> data.json
