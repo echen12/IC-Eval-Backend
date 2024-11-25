@@ -9,11 +9,12 @@
 ### Steps to Run the Application:
 
 1. Clone the project.
-2. Run the .sln file in Visual Studio. (e.g., Visual Studio).
-3. Open the Developer Command Prompt and run `dotnet build`.
-4. Run `dotnet watch` to start the application.
-5. Navigate to the following URL: [http://localhost:5050/data](http://localhost:5050/data).
-6. If you see the following JSON output:
+2. Navigate to where you cloned the project and open the project folder.
+3. Run the .sln file in Visual Studio.
+4. Open the Developer Command Prompt and run `dotnet build`.
+5. Run `dotnet watch` to start the application.
+6. Navigate to the following URL: [http://localhost:5050/data](http://localhost:5050/data).
+7. If you see the following JSON output:
 
     ```json
     {
@@ -87,4 +88,4 @@
     }
     ```
 
-7. You're ready to start the front end of the project.
+8. You're ready to start the front end of the project.
